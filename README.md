@@ -17,8 +17,11 @@
 |**Extra**|![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 
 
-## 🔗 Links
+## 📊 GitHub Stats
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coffebara)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 🔗 Contact Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.notion.so/6054e684820b400d9861007543ed5171)
 [![blog](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://copybarabarabam.tistory.com/))
----
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coffebara)](https://github.com/anuraghazra/github-readme-stats)
+
