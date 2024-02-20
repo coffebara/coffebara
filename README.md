@@ -17,7 +17,7 @@
 
 
 # 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffebara&layout=compact) [![github stats](https://github-readme-stats.vercel.app/api?username=coffebara)]
+[![github stats](https://github-readme-stats.vercel.app/api?username=coffebara)]
 <br><br>
 
 
