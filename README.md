@@ -1,8 +1,6 @@
 # Welcome to coffebara's github
 
 
-
----
 ## 🚀 About Me
 - 설계와 트러블 슈팅을 좋아하는 개발자입니다.
 - 협업과 확장성을 고려하며 개발합니다.
