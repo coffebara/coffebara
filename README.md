@@ -1,7 +1,7 @@
 # 🚀 About Me
 - 설계와 트러블 슈팅을 좋아하는 개발자입니다.
 - 협업과 확장성을 고려하며 개발합니다.
-- 해결한 문제의 재발을 방지하고자 노력하는 개발자입니다.
+
 <br><br>
 
 
@@ -17,7 +17,7 @@
 
 
 # 📊 GitHub Stats
-[![github stats](https://github-readme-stats.vercel.app/api?username=coffebara)]
+![github stats](https://github-readme-stats.vercel.app/api?username=coffebara)
 <br><br>
 
 
