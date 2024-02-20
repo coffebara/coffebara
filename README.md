@@ -22,6 +22,5 @@
 
 
 # 🔗 Contact Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.notion.so/6054e684820b400d9861007543ed5171)
-[![blog](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://copybarabarabam.tistory.com/))
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.notion.so/6054e684820b400d9861007543ed5171)  
+[![blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blog&logoColor=white)](https://copybarabarabam.tistory.com/)
