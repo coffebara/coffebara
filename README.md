@@ -2,9 +2,7 @@
 - 설계와 트러블 슈팅을 좋아하는 개발자입니다.
 - 협업과 확장성을 고려하며 개발합니다.
 - 해결한 문제의 재발을 방지하고자 노력하는 개발자입니다.
-  
-  
-  
+<br><br>
 # 🛠 Skills
 
 |**Language**|![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
