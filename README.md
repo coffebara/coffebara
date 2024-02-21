@@ -1,7 +1,6 @@
 # 🚀 About Me
-- 협업과 확장성을 고려하며 개발합니다.
-- 아키텍처의 이해를 중요하게 생각합니다.
-- 생
+- 사용하는 기술이 해당 프로젝트에서 갖는 의미를 고민합니다.
+
   
 
 <br><br>
@@ -24,4 +23,6 @@
 
 
 # 🔗 Contact Me
+
+Blog: [https://rlaisqls.tistory.com](https://copybarabarabam.tistory.com/)https://copybarabarabam.tistory.com/
 
